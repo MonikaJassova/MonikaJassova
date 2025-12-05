@@ -5,6 +5,8 @@ Get in touch if you're seeking a responsible professional with a QA & test autom
 - [my DevOps practitioner repos](https://github.com/MonikaJassova?tab=repositories&q=portfolio&type=&language=&sort=)
 - occasionally, I write tech and personal posts in Slovak on [my blog](https://monikajassova.github.io)
 
+- [my DevOps practitioner portfolio repos](https://github.com/MonikaJassova?tab=repositories&q=portfolio&type=&language=&sort=)
+
 I'm a fan of open source, privacy-preserving projects, and decentralized technologies.
 
 ### My story
