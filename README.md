@@ -2,7 +2,7 @@
 
 Get in touch if you're seeking a responsible engineer with a **QA & test automation** background, eager to develop **DevOps** skills and grow into an SRE, platform engineer—or even a future chaos engineering expert. Let's unlock new paths together! 🚀
 
-🔧 My projects
+### My projects
 
 - [DevOps practitioner repos](https://github.com/MonikaJassova?tab=repositories&q=portfolio&type=&language=&sort=) - explore my automation, IaC, CaC, container orchestration, and observability projects
 - [tech & personal blog (in Slovak)](https://monikajassova.github.io) - occasionally, I share insights on testing and IT culture
