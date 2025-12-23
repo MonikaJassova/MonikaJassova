@@ -14,7 +14,7 @@
 
 <!-- SOCIAL LINKS -->
 <p>
-<a href="https://www.linkedin.com/in/monika-jassova/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="monikajassova.github.io"><img src="https://img.shields.io/badge/Blog-181717?style=for-the-badge&logo=github&logoColor=white" alt="Blog"/></a> <a href="mailto:github@mon.slmail.me"><img src="https://img.shields.io/badge/Email-EA319F?style=for-the-badge&logo=simplelogin&logoColor=white" alt="Email"/></a> 
+<a href="https://www.linkedin.com/in/monika-jassova/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://monikajassova.github.io"><img src="https://img.shields.io/badge/Blog-181717?style=for-the-badge&logo=github&logoColor=white" alt="Blog"/></a> <a href="mailto:github@mon.slmail.me"><img src="https://img.shields.io/badge/Email-EA319F?style=for-the-badge&logo=simplelogin&logoColor=white" alt="Email"/></a> 
 </p>
 
 </div>
